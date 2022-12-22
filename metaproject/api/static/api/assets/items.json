@@ -1,0 +1,582 @@
+[
+    [
+        "1",
+        "Blink Dagger"
+    ],
+    [
+        "600",
+        "Overwhelming Blink"
+    ],
+    [
+        "603",
+        "Swift Blink"
+    ],
+    [
+        "604",
+        "Arcane Blink"
+    ],
+    [
+        "11",
+        "Quelling Blade"
+    ],
+    [
+        "237",
+        "Faerie Fire"
+    ],
+    [
+        "244",
+        "Wind Lace"
+    ],
+    [
+        "247",
+        "Moon Shard"
+    ],
+    [
+        "13",
+        "Gauntlets of Strength"
+    ],
+    [
+        "14",
+        "Slippers of Agility"
+    ],
+    [
+        "15",
+        "Mantle of Intelligence"
+    ],
+    [
+        "16",
+        "Iron Branch"
+    ],
+    [
+        "19",
+        "Robe of the Magi"
+    ],
+    [
+        "20",
+        "Circlet"
+    ],
+    [
+        "261",
+        "Crown"
+    ],
+    [
+        "25",
+        "Gloves of Haste"
+    ],
+    [
+        "26",
+        "Morbid Mask"
+    ],
+    [
+        "473",
+        "Voodoo Mask"
+    ],
+    [
+        "27",
+        "Ring of Regen"
+    ],
+    [
+        "279",
+        "Ring of Tarrasque"
+    ],
+    [
+        "28",
+        "Sage's Mask"
+    ],
+    [
+        "29",
+        "Boots of Speed"
+    ],
+    [
+        "30",
+        "Gem of True Sight"
+    ],
+    [
+        "34",
+        "Magic Stick"
+    ],
+    [
+        "36",
+        "Magic Wand"
+    ],
+    [
+        "37",
+        "Ghost Scepter"
+    ],
+    [
+        "39",
+        "Healing Salve"
+    ],
+    [
+        "40",
+        "Dust of Appearance"
+    ],
+    [
+        "41",
+        "Bottle"
+    ],
+    [
+        "46",
+        "Town Portal Scroll"
+    ],
+    [
+        "48",
+        "Boots of Travel"
+    ],
+    [
+        "220",
+        "Boots of Travel 2"
+    ],
+    [
+        "50",
+        "Phase Boots"
+    ],
+    [
+        "55",
+        "Hyperstone"
+    ],
+    [
+        "63",
+        "Power Treads"
+    ],
+    [
+        "65",
+        "Hand of Midas"
+    ],
+    [
+        "534",
+        "Witch Blade"
+    ],
+    [
+        "731",
+        "Satchel"
+    ],
+    [
+        "73",
+        "Bracer"
+    ],
+    [
+        "75",
+        "Wraith Band"
+    ],
+    [
+        "77",
+        "Null Talisman"
+    ],
+    [
+        "79",
+        "Mekansm"
+    ],
+    [
+        "81",
+        "Vladmir's Offering"
+    ],
+    [
+        "908",
+        "Wraith Pact"
+    ],
+    [
+        "86",
+        "Buckler"
+    ],
+    [
+        "88",
+        "Ring of Basilius"
+    ],
+    [
+        "269",
+        "Holy Locket"
+    ],
+    [
+        "90",
+        "Pipe of Insight"
+    ],
+    [
+        "92",
+        "Urn of Shadows"
+    ],
+    [
+        "94",
+        "Headdress"
+    ],
+    [
+        "96",
+        "Scythe of Vyse"
+    ],
+    [
+        "98",
+        "Orchid Malevolence"
+    ],
+    [
+        "250",
+        "Bloodthorn"
+    ],
+    [
+        "252",
+        "Echo Sabre"
+    ],
+    [
+        "100",
+        "Eul's Scepter of Divinity"
+    ],
+    [
+        "610",
+        "Wind Waker"
+    ],
+    [
+        "232",
+        "Aether Lens"
+    ],
+    [
+        "102",
+        "Force Staff"
+    ],
+    [
+        "263",
+        "Hurricane Pike"
+    ],
+    [
+        "104",
+        "Dagon 1"
+    ],
+    [
+        "201",
+        "Dagon 2"
+    ],
+    [
+        "202",
+        "Dagon 3"
+    ],
+    [
+        "203",
+        "Dagon 4"
+    ],
+    [
+        "204",
+        "Dagon 5"
+    ],
+    [
+        "108",
+        "Aghanim's Scepter"
+    ],
+    [
+        "271",
+        "Aghanim's Blessing"
+    ],
+    [
+        "727",
+        "Aghanim's Blessing - Roshan"
+    ],
+    [
+        "609",
+        "Aghanim's Shard"
+    ],
+    [
+        "725",
+        "Aghanim's Shard - Roshan"
+    ],
+    [
+        "110",
+        "Refresher Orb"
+    ],
+    [
+        "112",
+        "Assault Cuirass"
+    ],
+    [
+        "114",
+        "Heart of Tarrasque"
+    ],
+    [
+        "116",
+        "Black King Bar"
+    ],
+    [
+        "119",
+        "Shiva's Guard"
+    ],
+    [
+        "121",
+        "Bloodstone"
+    ],
+    [
+        "123",
+        "Linken's Sphere"
+    ],
+    [
+        "226",
+        "Lotus Orb"
+    ],
+    [
+        "223",
+        "Meteor Hammer"
+    ],
+    [
+        "225",
+        "Nullifier"
+    ],
+    [
+        "256",
+        "Aeon Disk"
+    ],
+    [
+        "259",
+        "Kaya"
+    ],
+    [
+        "369",
+        "Trident"
+    ],
+    [
+        "260",
+        "Refresher Shard"
+    ],
+    [
+        "267",
+        "Spirit Vessel"
+    ],
+    [
+        "125",
+        "Vanguard"
+    ],
+    [
+        "242",
+        "Crimson Guard"
+    ],
+    [
+        "127",
+        "Blade Mail"
+    ],
+    [
+        "129",
+        "Soul Booster"
+    ],
+    [
+        "131",
+        "Hood of Defiance"
+    ],
+    [
+        "692",
+        "Eternal Shroud"
+    ],
+    [
+        "133",
+        "Divine Rapier"
+    ],
+    [
+        "135",
+        "Monkey King Bar"
+    ],
+    [
+        "137",
+        "Radiance"
+    ],
+    [
+        "139",
+        "Butterfly"
+    ],
+    [
+        "141",
+        "Daedalus"
+    ],
+    [
+        "143",
+        "Skull Basher"
+    ],
+    [
+        "145",
+        "Battle Fury"
+    ],
+    [
+        "147",
+        "Manta Style"
+    ],
+    [
+        "149",
+        "Crystalys"
+    ],
+    [
+        "236",
+        "Dragon Lance"
+    ],
+    [
+        "151",
+        "Armlet of Mordiggian"
+    ],
+    [
+        "152",
+        "Shadow Blade"
+    ],
+    [
+        "249",
+        "Silver Edge"
+    ],
+    [
+        "154",
+        "Sange and Yasha"
+    ],
+    [
+        "273",
+        "Kaya and Sange"
+    ],
+    [
+        "277",
+        "Yasha and Kaya"
+    ],
+    [
+        "156",
+        "Satanic"
+    ],
+    [
+        "158",
+        "Mjollnir"
+    ],
+    [
+        "160",
+        "Eye of Skadi"
+    ],
+    [
+        "162",
+        "Sange"
+    ],
+    [
+        "164",
+        "Helm of the Dominator"
+    ],
+    [
+        "635",
+        "Helm of the Overlord"
+    ],
+    [
+        "166",
+        "Maelstrom"
+    ],
+    [
+        "1466",
+        "Gleipnir"
+    ],
+    [
+        "168",
+        "Desolator"
+    ],
+    [
+        "170",
+        "Yasha"
+    ],
+    [
+        "172",
+        "Mask of Madness"
+    ],
+    [
+        "174",
+        "Diffusal Blade"
+    ],
+    [
+        "176",
+        "Ethereal Blade"
+    ],
+    [
+        "178",
+        "Soul Ring"
+    ],
+    [
+        "180",
+        "Arcane Boots"
+    ],
+    [
+        "235",
+        "Octarine Core"
+    ],
+    [
+        "181",
+        "Orb of Venom"
+    ],
+    [
+        "240",
+        "Blight Stone"
+    ],
+    [
+        "569",
+        "Orb of Corrosion"
+    ],
+    [
+        "596",
+        "Falcon Blade"
+    ],
+    [
+        "598",
+        "Mage Slayer"
+    ],
+    [
+        "185",
+        "Drum of Endurance"
+    ],
+    [
+        "931",
+        "Boots of Bearing"
+    ],
+    [
+        "187",
+        "Medallion of Courage"
+    ],
+    [
+        "227",
+        "Solar Crest Recipe"
+    ],
+    [
+        "229",
+        "Solar Crest"
+    ],
+    [
+        "188",
+        "Smoke of Deceit"
+    ],
+    [
+        "257",
+        "Tome of Knowledge"
+    ],
+    [
+        "190",
+        "Veil of Discord"
+    ],
+    [
+        "911",
+        "Revenant's Brooch"
+    ],
+    [
+        "231",
+        "Guardian Greaves"
+    ],
+    [
+        "206",
+        "Rod of Atos"
+    ],
+    [
+        "239",
+        "Iron Talon"
+    ],
+    [
+        "208",
+        "Abyssal Blade"
+    ],
+    [
+        "210",
+        "Heaven's Halberd"
+    ],
+    [
+        "214",
+        "Tranquil Boots"
+    ],
+    [
+        "254",
+        "Glimmer Cape"
+    ],
+    [
+        "1029",
+        "Super Blink Dagger"
+    ],
+    [
+        "196",
+        "Diffusal Blade"
+    ]
+]
