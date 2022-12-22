@@ -81,6 +81,18 @@ argon2 = ["argon2-cffi (>=19.1.0)"]
 bcrypt = ["bcrypt"]
 
 [[package]]
+name = "djangorestframework"
+version = "3.14.0"
+description = "Web APIs for Django, made easy."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+django = ">=3.0"
+pytz = "*"
+
+[[package]]
 name = "gunicorn"
 version = "20.1.0"
 description = "WSGI HTTP Server for UNIX"
@@ -241,7 +253,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "flake8 (<5)", "pytest-co
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "7ded9f75e80a5aa1b3c5cfcdde8475bd29817f33ce3144eb44924b77a9b76e82"
+content-hash = "41b4660a8a8fc586aedcdad08da3fce30ce1ba18b510e9db66d1021d52d85b50"
 
 [metadata.files]
 asgiref = []
@@ -251,6 +263,7 @@ brotli = []
 colorama = []
 dj-database-url = []
 django = []
+djangorestframework = []
 gunicorn = []
 importlib-metadata = []
 more-itertools = []
